@@ -27,8 +27,8 @@ p {
     border-radius: 5%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 373px) {
     .qr-code {
-        margin: 40% 20%;
+        margin: 30% 5%;
     }
 }
