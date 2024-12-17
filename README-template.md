@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgement] (#acknowledgement)
 
 
 
@@ -52,3 +53,7 @@ The areas I want to focus on now is making sites that have responsive sizes. I w
 - Website - [Aiyebola Pelumi](https://pelumi72.github.io/My-Site/)
 - Frontend Mentor - [@Pelumi72](https://www.frontendmentor.io/profile/Pelumi72)
 - Twitter - [@Pelumiaiyebola](https://www.twitter.com/{Pelumiaiyebola})
+
+## Acknowledge
+
+I would like to thank Mahmoud AbdelKarim. He helped me to make my website more responsive on desktop with the use of flex display property.
